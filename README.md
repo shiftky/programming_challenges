@@ -19,5 +19,5 @@ Prob ID  | Title               | Status
 110306   | File Fragmentation  | Solved
 110401   | Vito's Family       | Solved
 110404   | Longest Nap         | Solved
-110405   | Shoemaker's Problem |
-110406   | CDVII               |
+110405   | Shoemaker's Problem | Never submitted
+110406   | CDVII               | Never submitted
