@@ -17,7 +17,7 @@ Prob ID  | Title               | Status
 110203   | Hartals             | Solved
 110302   | Where's Waldorf?    | Solved
 110306   | File Fragmentation  | Solved
-110401   | Vito's Family       |
-110404   | Longest Nap         |
-110405   | Shoemaker's Problem |
-110406   | CDVII               |
+110401   | Vito's Family       | Solved
+110404   | Longest Nap         | Solved
+110405   | Shoemaker's Problem | Never submitted
+110406   | CDVII               | Never submitted
