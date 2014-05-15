@@ -9,7 +9,7 @@ COINS 2014 GB21802 の課題。
 ## Problems List
 Prob ID  | Title               | Status
 -------- | ------------------- | -------
-110101   | The 3n+1 problem    | Solved 
+110101   | The 3n+1 problem    | Solved
 110102   | Minesweeper         | Solved
 110103   | The Trip            | Solved
 110106   | Interpreter         | Solved
@@ -21,3 +21,7 @@ Prob ID  | Title               | Status
 110404   | Longest Nap         | Solved
 110405   | Shoemaker's Problem | Never submitted
 110406   | CDVII               | Never submitted
+110502   | Reverse and Add     | Solved
+110503   | The Archeologists' Dilemma |  Never submitted
+110504   | Ones                | Never submitted
+110505   | A multiplication game | Never submitted
