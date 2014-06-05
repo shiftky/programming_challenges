@@ -25,3 +25,11 @@ Prob ID  | Title               | Status
 110503   | The Archeologists' Dilemma |  Never submitted
 110504   | Ones                | Never submitted
 110505   | A multiplication game | Never submitted
+10213    | How Many Pieces of Land | Never submitted
+10157    | Expressions         | Never submitted
+10049    | Self-describing Sequence | Solved
+864      | Steps               | Never submitted
+861      | Little Bishops      | Never submitted
+10168    | Summation of Four Primes | Solved
+10001    | Garden of Eden      | Never submitted
+704      | Colour Hash         | Never submitted
